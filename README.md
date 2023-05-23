@@ -29,8 +29,8 @@
   - 4.1 Personalização de Componentes
   - 4.2 Responsividade e Layout Responsivo
   - 4.3 Design Responsivo com MediaQuery
-  - 4.4 Efeitos de Transição
-  - 4.5 Animações Avançadas
+  - 4.4 Animações Avançadas
+  - 4.5 Efeitos de Transição
 
 ## Capítulo 5: Testes e Depuração de Aplicativos Flutter
   - 5.1 Testes de Unidade
@@ -42,8 +42,8 @@
   - 6.1 Widgets Básicos do Flutter
   - 6.2 Widgets Compostos e Personalizados
   - 6.3 Animações e Efeitos Visuais
-  - 6.4 Integração com APIs Externas
-  - 6.5 Acesso a Recursos do Dispositivo
+  - 6.4 Acesso a Recursos do Dispositivo
+  - 6.5 Integração com APIs Externas
 
 ## Capítulo 7: Widgets Avançados e Bibliotecas
   - 7.1 Widgets de UI Avançados
@@ -90,15 +90,16 @@
   - 15.2 Gerenciamento de Dependências com GetX
   - 15.3 Gerenciamento de Estado com GetX
 
-## Capítulo 16: Publicação de Aplicativos Flutter
-  - 16.1 Preparando o Aplicativo para Publicação
-  - 16.2 Gerando o APK ou App Bundle
-  - 16.3 Publicando na Google Play Store
-  - 16.4 Publicando na Apple App Store
+## Capítulo 16: Internacionalização e Localização
+  - 16.1 Suporte a Múltiplos Idiomas
+  - 16.2 Formatação de Datas, Moedas e Números
+  - 
+## Capítulo 17: Publicação de Aplicativos Flutter
+  - 17.1 Preparando o Aplicativo para Publicação
+  - 17.2 Gerando o APK ou App Bundle
+  - 17.3 Publicando na Google Play Store
+  - 17.4 Publicando na Apple App Store
 
-## Capítulo 17: Internacionalização e Localização
-  - 17.1 Suporte a Múltiplos Idiomas
-  - 17.2 Formatação de Datas, Moedas e Números
 
 ## Conclusão
 - Parabéns por concluir o "Documentação Flutter: Guia Completo"! Esperamos que este guia tenha fornecido a você um conhecimento sólido sobre o Flutter e suas diversas funcionalidades. Agora você está pronto para iniciar a criação de incríveis aplicativos multiplataforma com o Flutter. Continue explorando, praticando e aprimorando suas habilidades. Boa sorte em sua jornada como desenvolvedor Flutter!

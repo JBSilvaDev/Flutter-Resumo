@@ -104,7 +104,7 @@ class MyApp extends StatelessWidget {
 
 Neste exemplo, definimos um tema para o aplicativo com cores e uma fonte específica. Além disso, estilizamos o widget de texto para ter um tamanho de fonte de 20, negrito e cor azul.
 
-## 2.4 Ger
+## 2.4 Gerenciamento de Layouts
 
 enciamento de Layouts
 
