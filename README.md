@@ -52,9 +52,7 @@ Bem-vindo ao ebook "Documentação Flutter: Guia Completo". Neste guia, você en
 
 - [Capítulo 8: Melhores Práticas e Dicas Avançadas](capitulos/cap8.md)
   - 8.1 Organização de Código e Arquitetura
-  - 8.
-
-2 Otimização de Desempenho
+  - 8.2 Otimização de Desempenho
   - 8.3 Padrões de Design Recomendados
   - 8.4 Dicas Avançadas para Desenvolvimento Flutter
 
